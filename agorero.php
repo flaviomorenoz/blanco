@@ -9,5 +9,9 @@
 	<h1>AVE AGORERA</h1>
 	<p>Las aves agoreras pueden marcar el camino al cambio.</p>
 
+	<p>
+		<input type="text" id="idea1" name="idea2">
+	</p>
+
 </body>
 </html>
